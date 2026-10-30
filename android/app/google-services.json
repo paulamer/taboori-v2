@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202157899393",
+    "project_id": "taboori-1952a",
+    "storage_bucket": "taboori-1952a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202157899393:android:9b99c884d8e22ad39d9780",
+        "android_client_info": {
+          "package_name": "com.taboori.taboori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202157899393-d5rjupgvv0q7sjipk3o5tb9enovuka8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69P9onW2qXCMyUgfUqa01FviEanL9lv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202157899393-d5rjupgvv0q7sjipk3o5tb9enovuka8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
